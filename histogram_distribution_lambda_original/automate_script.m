@@ -1,0 +1,9 @@
+derivitive_cal_plot(T1, 10);
+derivitive_cal_plot(T1, 11);
+derivitive_cal_plot(T1, 12);
+derivitive_cal_plot(T1, 13);
+derivitive_cal_plot(T1, 14);
+derivitive_cal_plot(T1, 15);
+derivitive_cal_plot(T1, 16);
+derivitive_cal_plot(T1, 17);
+derivitive_cal_plot(T1, 18);
